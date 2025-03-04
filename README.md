@@ -55,5 +55,5 @@ Set up guide -
    android:name="com.google.android.geo.API_KEY"
    android:value="replace_with_your_api_key"
 
-4. Here I have used DI (dagger hilt), MVVM, JetPack Compose, Media3 Exoplayer, Google Map
+4. Here I have used DI (dagger hilt), MVVM, JetPack Compose, Media3 Exoplayer, Google Map, Room Library
 
