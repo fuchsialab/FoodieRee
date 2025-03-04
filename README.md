@@ -50,9 +50,9 @@ Set up guide -
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
 2. add api key for google map
-  <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="replace_with_your_api_key" />
+  
+   android:name="com.google.android.geo.API_KEY"
+   android:value="replace_with_your_api_key"
 
 4. Here I have used DI (dagger hilt), MVVM, JetPack Compose, Media3 Exoplayer, Google Map
 
