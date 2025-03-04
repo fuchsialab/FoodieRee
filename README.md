@@ -44,10 +44,11 @@ Set up guide -
     implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
 
 
+    android.permission.INTERNET
+    android.permission.ACCESS_FINE_LOCATION
+    android.permission.ACCESS_COARSE_LOCATION
 
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  
 
 2. add api key for google map
   
